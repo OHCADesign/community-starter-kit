@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This app helps new GitHub members get plugged in and start contributing
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Helps new memebers start contributing to the community
 
 ## Getting started
 
